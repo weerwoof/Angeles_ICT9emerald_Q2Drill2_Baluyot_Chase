@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial;
+    background-color: white;
+}
+
+.header {
+    background-color: lightblue;
+    text-align: center;
+    padding: 70px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: blue;
+}
+
+h4 {
+    color: darkblue;
+}
+
+.footer {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
